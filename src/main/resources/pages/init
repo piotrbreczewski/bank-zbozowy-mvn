@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Bank Zbożowy</title>
+</head>
+<body>
+    <h1>Witaj w Banku Zbożowym!</h1>
+    <p>Freemarker działa poprawnie 🎉</p>
+</body>
+</html>
